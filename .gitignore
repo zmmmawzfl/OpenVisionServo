@@ -4,6 +4,18 @@
 # 放行 .gitignore 本身
 !.gitignore
 
+# 放行项目说明和开源文件
+!README.md
+!LICENSE
+!*.md
+!*.txt
+!*.json
+!*.yaml
+!*.yml
+!*.toml
+!*.cfg
+!*.ini
+
 # 只放行根目录下的 Python 脚本（自己的代码）
 !*.py
 

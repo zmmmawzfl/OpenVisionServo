@@ -1,0 +1,22 @@
+# Core runtime
+numpy
+opencv-python
+pillow
+
+# Deep learning
+torch
+transformers
+onnxruntime
+ultralytics
+
+# Audio / speech
+pyaudio
+vosk
+
+# Optional for Raspberry Pi camera
+# picamera2
+# libcamera
+
+# Utilities
+scipy
+matplotlib
