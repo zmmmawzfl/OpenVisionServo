@@ -1,0 +1,11 @@
+# 先忽略一切
+*
+
+# 放行 .gitignore 本身
+!.gitignore
+
+# 只放行根目录下的 Python 脚本（自己的代码）
+!*.py
+
+# 放行 Python 版本文件
+!.python-version
