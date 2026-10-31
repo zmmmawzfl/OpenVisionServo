@@ -73,18 +73,7 @@ python visual_servo.py
 
 系统会通过视觉检测 + 目标跟踪 + 云台控制自动跟随目标。
 
-## GitHub 发布建议
 
-该项目适合发布到 GitHub，并建议使用以下方式进行仓库管理：
-
-- 使用清晰的仓库名：`OpenVisionServo`
-- 建议保留 `README.md`、`LICENSE`、`requirements.txt` 等基础文件
-- 把大模型权重（`.pt`、`.onnx`）放入 Git LFS 或单独发布为 Release 包
-- 若用于实验室或竞赛项目，可配套增加示例视频、硬件连接图与使用说明
-
-## 版权说明
-
-本项目采用 MIT License 开源协议，适合二次开发、教学研究和工程原型验证。
 
 ## 未来规划
 
@@ -96,10 +85,9 @@ python visual_servo.py
 
 ---
 
-如果你希望，我还可以继续为你补充：
 
-- 一个更正式的英文版 README
-- 一个适合 GitHub 首页展示的项目介绍页
-- 一个 `requirements.txt` 依赖文件
-- 一套 GitHub 发布命令（创建仓库、添加远程、提交与推送）
+## ⭐ 欢迎关注和参与
 
+如果这个项目对你有帮助，欢迎在 GitHub 上收藏、分享，并在 Issues / Pull Requests 中提出建议、反馈问题或参与改进。
+
+---
